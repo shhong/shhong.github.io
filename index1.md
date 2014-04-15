@@ -13,10 +13,11 @@ I am interested in how various building blocks of neural systems work together, 
 To find out more, please check out [the full list of publications](http://www.researchgate.net/profile/Sungho_Hong/publications/).
 
 
-## Software projects
+## Computer models and software projects
 
-I have developed the data analysis methods that helped us finding patterns in experimental data:
+I have developed the following computer models and data analysis packages:
 
-1. [ImagingAnalysis](http://github.com/JihwanMyung/ImagingAnalysis) contains my variant of multi-scale spectral clustering ([reference](http://www.jneurosci.org/content/32/26/8900)).
-2. [CSPRC](http://github.com/shhong/csprc) is an implementation of the Compressive Sensing-based method to compute a phase responsive curve from small-sized data (see [reference](http://jn.physiology.org/content/108/7/2069)).
+1. [Correlation](http://github.com/shhong/correlation) contains the simulation and analysis code used for my study about how single neuron properties affect correlation-based coding in a neural population ([reference](http://www.jneurosci.org/content/32/4/1413)).
+2. [ImagingAnalysis](http://github.com/JihwanMyung/ImagingAnalysis) contains my variant of multi-scale spectral clustering ([reference](http://www.jneurosci.org/content/32/26/8900)).
+3. [CSPRC](http://github.com/shhong/csprc) is an implementation of the Compressive Sensing-based method to compute a phase responsive curve from small-sized data (see [reference](http://jn.physiology.org/content/108/7/2069)).
 
